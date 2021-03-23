@@ -1,0 +1,43 @@
+C:\Users\entep05\source\repos\SoftwareDeveloperInterview\02_BitmapPlayground\bin\Debug\02_BitmapPlayground.exe.config
+C:\Users\entep05\source\repos\SoftwareDeveloperInterview\02_BitmapPlayground\bin\Debug\02_BitmapPlayground.exe
+C:\Users\entep05\source\repos\SoftwareDeveloperInterview\02_BitmapPlayground\bin\Debug\02_BitmapPlayground.pdb
+C:\Users\entep05\source\repos\SoftwareDeveloperInterview\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.csprojAssemblyReference.cache
+C:\Users\entep05\source\repos\SoftwareDeveloperInterview\02_BitmapPlayground\obj\Debug\_02_BitmapPlayground.Form1.resources
+C:\Users\entep05\source\repos\SoftwareDeveloperInterview\02_BitmapPlayground\obj\Debug\_02_BitmapPlayground.Properties.Resources.resources
+C:\Users\entep05\source\repos\SoftwareDeveloperInterview\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.csproj.GenerateResource.cache
+C:\Users\entep05\source\repos\SoftwareDeveloperInterview\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.csproj.CoreCompileInputs.cache
+C:\Users\entep05\source\repos\SoftwareDeveloperInterview\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.exe
+C:\Users\entep05\source\repos\SoftwareDeveloperInterview\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.pdb
+D:\Desktop\Software developer interview\02_BitmapPlayground\bin\Debug\02_BitmapPlayground.exe.config
+D:\Desktop\Software developer interview\02_BitmapPlayground\bin\Debug\02_BitmapPlayground.exe
+D:\Desktop\Software developer interview\02_BitmapPlayground\bin\Debug\02_BitmapPlayground.pdb
+D:\Desktop\Software developer interview\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.csprojAssemblyReference.cache
+D:\Desktop\Software developer interview\02_BitmapPlayground\obj\Debug\_02_BitmapPlayground.Form1.resources
+D:\Desktop\Software developer interview\02_BitmapPlayground\obj\Debug\_02_BitmapPlayground.Properties.Resources.resources
+D:\Desktop\Software developer interview\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.csproj.GenerateResource.cache
+D:\Desktop\Software developer interview\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.csproj.CoreCompileInputs.cache
+D:\Desktop\Software developer interview\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.exe
+D:\Desktop\Software developer interview\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.pdb
+D:\Desktop\Software developer interview\Projects\02_BitmapPlayground\02_BitmapPlayground\bin\Debug\02_BitmapPlayground.exe.config
+D:\Desktop\Software developer interview\Projects\02_BitmapPlayground\02_BitmapPlayground\bin\Debug\02_BitmapPlayground.exe
+D:\Desktop\Software developer interview\Projects\02_BitmapPlayground\02_BitmapPlayground\bin\Debug\02_BitmapPlayground.pdb
+D:\Desktop\Software developer interview\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\_02_BitmapPlayground.Form1.resources
+D:\Desktop\Software developer interview\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\_02_BitmapPlayground.Properties.Resources.resources
+D:\Desktop\Software developer interview\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.csproj.GenerateResource.cache
+D:\Desktop\Software developer interview\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.csproj.CoreCompileInputs.cache
+D:\Desktop\Software developer interview\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.exe
+D:\Desktop\Software developer interview\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.pdb
+D:\Desktop\Software developer interview\Projects\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.csprojAssemblyReference.cache
+C:\Users\Derya\source\repos\02_BitmapPlayground\02_BitmapPlayground\bin\Debug\02_BitmapPlayground.exe.config
+C:\Users\Derya\source\repos\02_BitmapPlayground\02_BitmapPlayground\bin\Debug\02_BitmapPlayground.exe
+C:\Users\Derya\source\repos\02_BitmapPlayground\02_BitmapPlayground\bin\Debug\02_BitmapPlayground.pdb
+C:\Users\Derya\source\repos\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.csprojAssemblyReference.cache
+C:\Users\Derya\source\repos\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\_02_BitmapPlayground.Form1.resources
+C:\Users\Derya\source\repos\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\_02_BitmapPlayground.Properties.Resources.resources
+C:\Users\Derya\source\repos\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.csproj.GenerateResource.cache
+C:\Users\Derya\source\repos\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.csproj.CoreCompileInputs.cache
+C:\Users\Derya\source\repos\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.exe
+C:\Users\Derya\source\repos\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.pdb
+C:\Users\Derya\source\repos\02_BitmapPlayground\02_BitmapPlayground\bin\Debug\FilterReferenceClass.dll
+C:\Users\Derya\source\repos\02_BitmapPlayground\02_BitmapPlayground\bin\Debug\FilterReferenceClass.pdb
+C:\Users\Derya\source\repos\02_BitmapPlayground\02_BitmapPlayground\obj\Debug\02_BitmapPlayground.csproj.CopyComplete
